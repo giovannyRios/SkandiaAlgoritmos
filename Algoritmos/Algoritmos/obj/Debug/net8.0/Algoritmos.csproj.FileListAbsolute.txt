@@ -1,0 +1,14 @@
+C:\Users\giova\Documents\pruebaTecnicaSkandia\Algoritmos\Algoritmos\Algoritmos\bin\Debug\net8.0\Algoritmos.exe
+C:\Users\giova\Documents\pruebaTecnicaSkandia\Algoritmos\Algoritmos\Algoritmos\bin\Debug\net8.0\Algoritmos.deps.json
+C:\Users\giova\Documents\pruebaTecnicaSkandia\Algoritmos\Algoritmos\Algoritmos\bin\Debug\net8.0\Algoritmos.runtimeconfig.json
+C:\Users\giova\Documents\pruebaTecnicaSkandia\Algoritmos\Algoritmos\Algoritmos\bin\Debug\net8.0\Algoritmos.dll
+C:\Users\giova\Documents\pruebaTecnicaSkandia\Algoritmos\Algoritmos\Algoritmos\bin\Debug\net8.0\Algoritmos.pdb
+C:\Users\giova\Documents\pruebaTecnicaSkandia\Algoritmos\Algoritmos\Algoritmos\obj\Debug\net8.0\Algoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\Documents\pruebaTecnicaSkandia\Algoritmos\Algoritmos\Algoritmos\obj\Debug\net8.0\Algoritmos.AssemblyInfoInputs.cache
+C:\Users\giova\Documents\pruebaTecnicaSkandia\Algoritmos\Algoritmos\Algoritmos\obj\Debug\net8.0\Algoritmos.AssemblyInfo.cs
+C:\Users\giova\Documents\pruebaTecnicaSkandia\Algoritmos\Algoritmos\Algoritmos\obj\Debug\net8.0\Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\giova\Documents\pruebaTecnicaSkandia\Algoritmos\Algoritmos\Algoritmos\obj\Debug\net8.0\Algoritmos.dll
+C:\Users\giova\Documents\pruebaTecnicaSkandia\Algoritmos\Algoritmos\Algoritmos\obj\Debug\net8.0\refint\Algoritmos.dll
+C:\Users\giova\Documents\pruebaTecnicaSkandia\Algoritmos\Algoritmos\Algoritmos\obj\Debug\net8.0\Algoritmos.pdb
+C:\Users\giova\Documents\pruebaTecnicaSkandia\Algoritmos\Algoritmos\Algoritmos\obj\Debug\net8.0\Algoritmos.genruntimeconfig.cache
+C:\Users\giova\Documents\pruebaTecnicaSkandia\Algoritmos\Algoritmos\Algoritmos\obj\Debug\net8.0\ref\Algoritmos.dll
